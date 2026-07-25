@@ -16,37 +16,55 @@
 ## 🛠️ Инструменты и стек
 
 ### Баг-трекинг и менеджмент задач
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=confluence&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=white)
+<p>
+<img src="https://cdn.simpleicons.org/jira/0052CC" width="48" height="48" alt="Jira" title="Jira"/>
+<img src="https://cdn.simpleicons.org/confluence/172B4D" width="48" height="48" alt="Confluence" title="Confluence"/>
+<img src="https://cdn.simpleicons.org/trello/0052CC" width="48" height="48" alt="Trello" title="Trello"/>
+</p>
 
 ### Тест-менеджмент
-![TestRail](https://img.shields.io/badge/TestRail-65C179?style=plastic&logo=testrail&logoColor=white)
-![Zephyr](https://img.shields.io/badge/Zephyr-2B72D6?style=plastic)
-![Xray](https://img.shields.io/badge/Xray-FF5630?style=plastic&logo=jirasoftware&logoColor=white)
+<p>
+<img src="https://cdn.simpleicons.org/testrail/65C179" width="48" height="48" alt="TestRail" title="TestRail"/>
+</p>
+
+> ⚠️ У Zephyr, Xray, Charles Proxy и Fiddler нет официальных логотипов в открытых иконочных библиотеках — оставил их названием без иконки (см. ниже), чтобы не вставлять чужие/неточные логотипы.
+
+**Также используются:** Zephyr, Xray
 
 ### API-тестирование
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=swagger&logoColor=black)
+<p>
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="48" height="48" alt="Postman" title="Postman"/>
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="Swagger" title="Swagger"/>
+</p>
 
 ### Работа с базами данных
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white)
+<p>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL" title="MySQL"/>
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/>
+</p>
 
 ### Отладка и мониторинг
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=plastic&logo=googlechrome&logoColor=white)
-![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-F7931E?style=plastic)
-![Fiddler](https://img.shields.io/badge/Fiddler-3E4E88?style=plastic)
+<p>
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48" alt="Chrome DevTools" title="Chrome DevTools"/>
+</p>
+
+**Также используются:** Charles Proxy, Fiddler
 
 ### Кроссбраузерное и мобильное тестирование
-![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6E00?style=plastic&logo=browserstack&logoColor=white)
+<p>
+<img src="https://cdn.simpleicons.org/browserstack/FF6E00" width="48" height="48" alt="BrowserStack" title="BrowserStack"/>
+</p>
 
 ### Версионирование и совместная работа
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+<p>
+<img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" title="Git"/>
+<img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub" title="GitHub"/>
+</p>
 
 ### Дизайн (для сверки макетов)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
+<p>
+<img src="https://cdn.simpleicons.org/figma/F24E1E" width="48" height="48" alt="Figma" title="Figma"/>
+</p>
 
 ---
 
