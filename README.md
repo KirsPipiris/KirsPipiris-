@@ -25,11 +25,11 @@
 ### Тест-менеджмент
 <p>
 <img src="https://cdn.simpleicons.org/testrail/65C179" width="48" height="48" alt="TestRail" title="TestRail"/>
+<img src="https://www.google.com/s2/favicons?sz=64&domain=smartbear.com" width="48" height="48" alt="Zephyr" title="Zephyr"/>
+<img src="https://www.google.com/s2/favicons?sz=64&domain=getxray.app" width="48" height="48" alt="Xray" title="Xray"/>
 </p>
 
-> ⚠️ У Zephyr, Xray, Charles Proxy и Fiddler нет официальных логотипов в открытых иконочных библиотеках — оставил их названием без иконки (см. ниже), чтобы не вставлять чужие/неточные логотипы.
-
-**Также используются:** Zephyr, Xray
+> ⚠️ Для Zephyr и Xray нет отдельных SVG-логотипов в открытых иконочных библиотеках (simpleicons и т.п.) — иконки выше подтянуты с официальных сайтов производителей (favicon), поэтому выглядят немного проще, чем остальные.
 
 ### API-тестирование
 <p>
@@ -46,9 +46,9 @@
 ### Отладка и мониторинг
 <p>
 <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48" alt="Chrome DevTools" title="Chrome DevTools"/>
+<img src="https://www.google.com/s2/favicons?sz=64&domain=charlesproxy.com" width="48" height="48" alt="Charles Proxy" title="Charles Proxy"/>
+<img src="https://www.google.com/s2/favicons?sz=64&domain=telerik.com" width="48" height="48" alt="Fiddler" title="Fiddler"/>
 </p>
-
-**Также используются:** Charles Proxy, Fiddler
 
 ### Кроссбраузерное и мобильное тестирование
 <p>
